@@ -1,6 +1,6 @@
 # Rocky Planets in the Habitable Zone — a dated census of the NASA Exoplanet Archive
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24442222.svg)](https://doi.org/10.5281/zenodo.24442222)
 
 Code and data for the research note *Rocky Planets in the Habitable Zone: A Dated,
 Reproducible Census of the NASA Exoplanet Archive with Radius-Provenance Flags*
@@ -80,7 +80,7 @@ and Space Administration under the Exoplanet Exploration Program
 Please cite the research note (once published) and this archive:
 
 > Asadinia, P. 2026, *Rocky planets in the habitable zone: code and data* (v1.0),
-> Zenodo, doi:10.5281/zenodo.XXXXXXX
+> Zenodo, doi:10.5281/zenodo.24442222
 
 GitHub's "Cite this repository" button uses `CITATION.cff`.
 
