@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Rocky planets in the habitable zone: code and data for a dated census of the NASA Exoplanet Archive"
+type: software
+version: "1.0"
+date-released: "2026-11-23"
+license: MIT
+repository-code: "https://github.com/payam-asa/exoplanet-hz-census"
+authors:
+  - family-names: Asadinia
+    given-names: Payam
+    affiliation: "Learn Satit Pattana School, Bangkok, Thailand"
+    orcid: "https://orcid.org/0009-0002-3953-6104"
+abstract: >-
+  Jupyter notebook and data that select rocky (R <= 1.6 Earth radii) planets in
+  the Kopparapu et al. (2014) habitable zone from the NASA Exoplanet Archive
+  Planetary Systems Composite Parameters table (pscomppars, downloaded
+  22 November 2026), rank them by the Earth Similarity Index, and flag whether
+  each radius was measured by transit or estimated from a mass-radius relation.
+  Includes the archive snapshot, the ranked table of 32 planets and the
+  habitable-zone figure.
+keywords:
+  - exoplanets
+  - habitable zone
+  - Earth Similarity Index
+  - NASA Exoplanet Archive
+  - rocky planets
+  - reproducibility

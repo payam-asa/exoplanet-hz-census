@@ -1,0 +1,33 @@
+rank,pl_name,st_spectype,st_teff,dist_ly,R,R_source,S,T_eq_C,ESI,HZ,teff_in_range,discoverymethod,pl_controv_flag
+1,Teegarden's Star b,M7.0 V,3034.0,12.5,1.05,estimated (archive M-R),1.08,-14.0,0.969,optimistic,True,Radial Velocity,0
+2,Kepler-1512 b,,4372.0,528.4,1.18,measured (transit),1.08,-14.0,0.936,optimistic,True,Transit,0
+3,TOI-700 d,M2.5 V,3459.0,101.5,1.14,measured (transit),0.86,-27.0,0.93,conservative,True,Transit,0
+4,Kepler-1649 c,,3240.0,300.7,1.06,measured (transit),1.23,-5.0,0.926,optimistic,True,Transit,0
+5,TRAPPIST-1 d,M8.0 V,2566.0,40.5,0.79,measured (transit),1.12,-11.0,0.908,optimistic,False,Transit,0
+6,TOI-700 e,M2.5 V,3459.0,101.5,0.92,measured (transit),1.31,-1.0,0.902,optimistic,True,Transit,0
+7,GJ 3378 b,M4 V,3340.0,25.2,1.32,estimated (archive M-R),0.91,-24.0,0.897,conservative,True,Radial Velocity,0
+8,LP 890-9 c,M6 V,2850.0,105.8,1.37,measured (transit),0.91,-24.0,0.885,conservative,True,Transit,0
+9,K2-72 e,,3360.0,216.7,1.29,measured (transit),1.3,-1.0,0.872,optimistic,True,Transit,0
+10,GJ 1002 b,M5.5 V,3024.0,15.8,1.03,estimated (archive M-R),0.67,-42.0,0.862,conservative,True,Radial Velocity,0
+11,Ross 128 b,M4,3192.0,11.0,1.11,estimated (archive M-R),1.47,8.0,0.86,optimistic,True,Radial Velocity,0
+12,L 98-59 f,M3 V,3415.0,34.6,1.48,estimated (archive M-R),1.1,-12.0,0.859,optimistic,True,Radial Velocity,0
+13,GJ 1061 c,M5.5 V,2953.0,12.0,1.19,estimated (archive M-R),1.45,7.0,0.856,optimistic,True,Radial Velocity,0
+14,GJ 273 b,M3.5,3382.0,19.3,1.51,estimated (archive M-R),1.06,-15.0,0.855,optimistic,True,Radial Velocity,0
+15,Kepler-296 e,M2 V,3740.0,544.7,1.53,measured (transit),1.09,-13.0,0.849,optimistic,True,Transit,0
+16,Wolf 1069 b,M5.0 V,3158.0,31.3,1.08,estimated (archive M-R),0.65,-44.0,0.849,conservative,True,Radial Velocity,0
+17,Proxima Cen b,M5.5 V,2900.0,4.2,1.02,estimated (archive M-R),0.64,-45.0,0.846,conservative,True,Radial Velocity,0
+18,TRAPPIST-1 e,M8.0 V,2566.0,40.5,0.92,measured (transit),0.65,-45.0,0.845,conservative,False,Transit,0
+19,Kepler-442 b,,4402.0,1193.6,1.34,measured (transit),0.7,-40.0,0.838,conservative,True,Transit,0
+20,Kepler-1652 b,,3638.0,821.9,1.6,measured (transit),0.84,-29.0,0.826,conservative,True,Transit,0
+21,K2-3 d,M V,3844.0,143.7,1.46,measured (transit),1.45,6.0,0.815,optimistic,True,Transit,0
+22,TOI-715 b,M4,3075.0,138.3,1.55,measured (transit),0.71,-39.0,0.807,conservative,True,Transit,0
+23,GJ 1061 d,M5.5 V,2953.0,12.0,1.16,estimated (archive M-R),0.58,-50.0,0.807,conservative,True,Radial Velocity,0
+24,GJ 667 C f,M1.5 V,3350.0,23.6,1.45,estimated (archive M-R),0.56,-52.0,0.764,conservative,True,Radial Velocity,1
+25,Kepler-62 f,K2 V,4925.0,981.3,1.41,measured (transit),0.41,-70.0,0.679,conservative,True,Transit,0
+26,TRAPPIST-1 f,M8.0 V,2566.0,40.5,1.04,measured (transit),0.37,-74.0,0.677,conservative,False,Transit,0
+27,Teegarden's Star c,M7.0 V,3034.0,12.5,1.02,estimated (archive M-R),0.35,-77.0,0.659,conservative,True,Radial Velocity,0
+28,Kepler-1229 b,,3784.0,865.9,1.4,measured (transit),0.32,-81.0,0.62,conservative,True,Transit,0
+29,Kepler-186 f,M1,3755.0,579.2,1.17,measured (transit),0.29,-85.0,0.611,conservative,True,Transit,1
+30,GJ 667 C e,M1.5 V,3350.0,23.6,1.45,estimated (archive M-R),0.3,-84.0,0.599,conservative,True,Radial Velocity,1
+31,GJ 1002 c,M5.5 V,3024.0,15.8,1.1,estimated (archive M-R),0.26,-92.0,0.582,conservative,True,Radial Velocity,0
+32,TRAPPIST-1 g,M8.0 V,2566.0,40.5,1.13,measured (transit),0.25,-93.0,0.576,conservative,False,Transit,0
