@@ -3,7 +3,7 @@ message: "If you use this code or data, please cite it as below."
 title: "Rocky planets in the habitable zone: code and data for a dated census of the NASA Exoplanet Archive"
 type: software
 version: "1.0"
-date-released: "2026-11-23"
+date-released: "2026-11-22"
 license: MIT
 repository-code: "https://github.com/payam-asa/exoplanet-hz-census"
 authors:
