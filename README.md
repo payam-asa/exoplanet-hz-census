@@ -138,7 +138,7 @@ GitHub's "Cite this repository" button uses `CITATION.cff`.
 
 ## Author
 
-Payam Asadinia — Learn Satit Pattana School, Bangkok, Thailand ·
+Payam Asadinia 
 ORCID [0009-0002-3953-6104](https://orcid.org/0009-0002-3953-6104).
 Student contributors are credited in the research note.
 
